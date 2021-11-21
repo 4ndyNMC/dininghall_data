@@ -1,49 +1,5 @@
 On-Campus Blue Meal Plan Activity
 Posted	Swipe Count	  	Location
-11/20/2021 6:54:09 PM	1	  	Crossroads
-11/19/2021 1:49:26 PM	1	  	Crossroad S2
-11/18/2021 8:29:41 PM	1	  	Crossroads
-11/18/2021 12:22:18 PM	1	  	Crossroads
-11/17/2021 6:49:29 PM	1	  	Golden Bear
-11/17/2021 1:11:45 PM	1	  	Crossroads
-11/16/2021 6:18:05 PM	1	  	Clark Kerr
-11/16/2021 2:15:57 PM	1	  	Crossroads
-11/15/2021 6:50:43 PM	1	  	Crossroads
-11/15/2021 11:02:19 AM	1	  	Crossroads
-11/14/2021 8:11:19 PM	1	  	Cafe 3
-11/13/2021 6:54:31 PM	1	  	Crossroads
-11/12/2021 8:25:52 PM	1	  	Crossroads
-11/12/2021 1:35:32 PM	1	  	Crossroads
-11/11/2021 6:23:30 PM	1	  	Cafe 3
-11/11/2021 2:38:09 PM	1	  	Crossroads
-11/9/2021 7:31:52 PM	1	  	Golden Bear
-11/9/2021 12:07:16 PM	1	  	Crossroads
-11/8/2021 5:30:26 PM	1	  	Golden Bear
-11/7/2021 4:49:26 PM	1	  	Cafe 3
-11/6/2021 7:54:41 PM	1	  	Crossroads
-11/5/2021 1:00:17 PM	1	  	Golden Bear
-11/4/2021 7:21:10 PM	1	  	Cafe 3
-11/4/2021 1:26:11 PM	1	  	Crossroads
-11/3/2021 5:54:42 PM	1	  	Crossroads
-11/2/2021 8:46:00 PM	1	  	Crossroads
-11/2/2021 1:22:31 PM	1	  	Crossroads
-11/1/2021 6:48:10 PM	1	  	Crossroads
-11/1/2021 12:30:52 PM	1	  	Crossroads
-10/31/2021 5:46:55 PM	1	  	Crossroads
-10/30/2021 6:55:36 PM	1	  	Crossroads
-10/29/2021 6:11:22 PM	1	  	Crossroads
-10/28/2021 7:37:08 PM	1	  	Golden Bear
-10/28/2021 1:16:10 PM	1	  	Crossroads
-10/27/2021 5:44:15 PM	1	  	Crossroads
-10/26/2021 7:20:58 PM	1	  	Crossroads
-10/26/2021 2:00:09 PM	1	  	Crossroads
-10/25/2021 8:47:08 PM	1	  	Crossroads
-10/25/2021 1:38:56 PM	1	  	Cafe 3
-10/24/2021 6:55:24 PM	1	  	Crossroads
-10/24/2021 3:03:35 PM	1	  	Crossroads
-10/22/2021 8:20:38 PM	1	  	Crossroads
-10/22/2021 1:35:18 PM	1	  	Crossroads
-10/21/2021 8:16:56 PM	1	  	Crossroads
 10/21/2021 12:18:26 PM	1	  	Crossroads
 10/20/2021 7:18:41 PM	1	  	Crossroads
 10/20/2021 11:35:02 AM	1	  	Crossroads
@@ -148,4 +104,8 @@ Posted: 9/10/2021 11:49:39 PM
 8/24/2021 12:14:50 PM	1	  	Cafe 3
 8/23/2021 5:57:12 PM	1	  	Crossroad S2
 8/23/2021 2:15:01 PM	1	  	Crossroads
- 
+8/22/2021 6:08:54 PM	1	  	Crossroads
+8/21/2021 5:46:11 PM	1	  	Cafe 3
+8/20/2021 5:43:29 PM	1	  	Crossroads
+8/19/2021 5:14:37 PM	1	  	Crossroads
+8/18/2021 8:19:03 PM	1	  	Crossroads
